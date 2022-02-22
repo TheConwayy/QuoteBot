@@ -9,9 +9,9 @@ The official repo for the Discord bot "Quote Bot"
 Since I am starting to learn Python, I figured I may as well dab around in discord.py, and with a combo of my previous knowledge and some help from the internet, this was made!
 I know it's simple, but sometimes you just need to get a nice quote to get you through the day and this bot will provide you with just that!
 
-## Discord
+## What it is
 
-You can find the Discord [here](https://conwaysolutions.net/quotebot/discord/)
+This is a Discord bot that will send a quote, and depending on the command executed, the bot will give you a random or "daily" quote.
 
 ## Commands
 
@@ -19,12 +19,6 @@ You can find the Discord [here](https://conwaysolutions.net/quotebot/discord/)
 - `"daily` : Sends the QoTD (Quote of The Day)!
 - `"random` : Send a random quote!
 - `"api` : Shows information about the API used to power the bot!
-
-## Plans for the future
-
-If this bot gets any up-votes (on [this](https://top.gg/bot/903688503257337928/) website) and some feedback from the community saying that they want more, well, I'll give you more!!
-I also plan on adding some more here and there.. But, I would love to hear from you all!
-*I also look foward to seeing what people create now that the bot is open source!*
 
 ## About the license (what you can and can't do)
 
