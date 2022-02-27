@@ -13,6 +13,14 @@ I know it's simple, but sometimes you just need to get a nice quote to get you t
 
 This is a Discord bot that will send a quote, and depending on the command executed, the bot will give you a random or "daily" quote.
 
+## Plans for the Future
+
+In the future I plan on updating this to [disnake](https://github.com/DisnakeDev/disnake) *(which I am working on now)* and then creating some more commands
+
+I'm also going to host this on my end and then have this be a public bot
+
+Other than that, I do not plan on doing too much.. If this blasts off I will make sure that this is updated and add features here and there.
+
 ## Commands
 
 - `"help` : Gives you the commands available!
@@ -22,7 +30,7 @@ This is a Discord bot that will send a quote, and depending on the command execu
 
 ## About the license (what you can and can't do)
 
-You can use this scource code for the following:
+You can use this source code for the following:
 - Commercial use
 - Distribution
 - Modification
