@@ -1,0 +1,4 @@
+# Git will ignore the following files
+
+#Ignore WakaTime file
+.wakatime-project
