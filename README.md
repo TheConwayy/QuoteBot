@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/github/license/TheConwayy/QuoteBot?logo=Scala&style=flat-square"> <img src="https://img.shields.io/discord/905988385712255076?color=%237289DA&label=Discord&logo=Discord&logoColor=%23ffff&style=flat-square"> <img src="https://img.shields.io/github/last-commit/TheConwayy/QuoteBot?logo=Github&style=flat-square">
+<img src="https://img.shields.io/github/license/TheConwayy/QuoteBot?logo=Scala&style=flat-square"> <img src="https://img.shields.io/discord/950718270984552518?color=%237289DA&label=Discord&logo=Discord&logoColor=%23ffff&style=flat-square"> <img src="https://img.shields.io/github/last-commit/TheConwayy/QuoteBot?logo=Github&style=flat-square">
 
 QuoteBot
 ========
