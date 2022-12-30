@@ -1,4 +1,11 @@
-<img src="https://img.shields.io/github/license/TheConwayy/QuoteBot?logo=Scala&style=flat-square"> <img src="https://img.shields.io/discord/950718270984552518?color=%237289DA&label=Discord&logo=Discord&logoColor=%23ffff&style=flat-square"> <img src="https://img.shields.io/github/last-commit/TheConwayy/QuoteBot?logo=Github&style=flat-square">
+THIS PROJECT IS ARCHIVED
+========================
+
+This project has been archived, and is no longer maintained nor hosted. 
+
+There are a few reasons for this, the main being that I do not have as much time on my hands and I feel that I should exapnd beyond a project such as this one. 
+
+However, I will say, this was a great introduction to APIs and how they work.
 
 QuoteBot
 ========
